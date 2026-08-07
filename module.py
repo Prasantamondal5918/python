@@ -1,1 +1,2 @@
 print("Modole")
+print("Modole")
